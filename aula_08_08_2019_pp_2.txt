@@ -1,0 +1,60 @@
+Paradigma funcional
+
+M E A N		    STACK
+O X N O
+N P G D
+G R U E
+O E L
+  S A
+  S R
+
+M E R N
+O X E O
+N P A D
+G R C E
+O E T
+  S
+  S
+
+angular -> framework javascript
+react -> biblioteca javascript, a vantagem -> usa DOM
+
+REACT + REDUX -> usado pelo facebook e instagram
+
+ECMASCRIPT (ES)
+
+REACT, NODE são bibliotecas e frameworks javascript
+que importam as funcionalidades do ES6
+                                                          APIs
+                                                          ______________                              ________
+ ( )                navegador -------------------------> | Servidor WEB |--------------------------->|   BD   |
+\_|_/-celular       | HTML  |                            |              |                            |        |
+  |  -tablet        | CSS   | <--------------------------|______________|<---------------------------|________|
+ / \  -pc           | JS    |         BACKEND -> node  
+      -notebook     |_______|                    java spring boot 				
+|                                               php
+v                                               python
+usuário                                         .NET(C# e ASP)
+                                                ruby
+
+CSS -> bootstrap, materialize
+JS -> angular, ajax, react, vue
+
+SOAP -> XML -> JSON
+
+
+APIs
+
+DOM - Document Objetc Model
+
+<html>
+    <head>
+         <title>----</title>
+    </head>
+    <body>
+         <h1>-----</h1>
+         <p>
+	    <input>
+	 <p>
+    </body>
+</html>
