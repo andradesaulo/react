@@ -1,0 +1,11 @@
+map
+
+...         (spread)
+
+Componentes--> estado
+
+    var x
+    x = 10
+    x = 11
+    x = 12
+    

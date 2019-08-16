@@ -1,6 +1,18 @@
+// import React from 'react'
+// import ReactDOM from 'react-dom'
+// // import FamiliaSilva from './FamiliaSilva'
+// import Familia from './familia'
+// import Member from './member'
+// ReactDOM.render(
+//                 <Familia sobrenome='Silva'>
+//                         <Member nome='Guilherme'/>
+//                         <Member nome='Pedro'/>
+//                         <Member nome='Luis'/>
+//                 </Familia>,
+//          document.getElementById('app'))
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Exemplo from './component.jsx'
-
-ReactDOM.render(<Exemplo/>,
-     document.getElementById('app'))
+import ClassComponent from './classComponent'
+ReactDOM.render(
+        <ClassComponent idade='21' />
+        , document.getElementById('app'))
