@@ -14,5 +14,5 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import ClassComponent from './classComponent'
 ReactDOM.render(
-        <ClassComponent idade='21' />
+        <ClassComponent label="Calculadora" a={0} b={0} resultado="" sinal=""/>
         , document.getElementById('app'))
